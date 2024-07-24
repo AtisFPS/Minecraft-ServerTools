@@ -17,9 +17,9 @@ setup-bot-discord-ServerMC(){
     mkdir /bot-discord/
     cd /bot-discord/
     mkdir ./scripts
-    wget -O ./scripts/cron-start.sh # LIEN GITHUB
-    wget -O alim-system.py # LIEN GITHUB
-    wget -O backup-server.py # LIEN GITHUB
+    wget -O ./scripts/cron-start.sh https://raw.githubusercontent.com/AtisFPS/Minecraft-ServerTools/main/ServerMC/scripts/cron-start.sh
+    wget -O alim-system.py https://raw.githubusercontent.com/AtisFPS/Minecraft-ServerTools/main/ServerMC/alim-system.py
+    wget -O backup.py https://raw.githubusercontent.com/AtisFPS/Minecraft-ServerTools/main/ServerMC/backup.py
     
 }
 
