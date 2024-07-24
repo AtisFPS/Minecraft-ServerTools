@@ -13,7 +13,7 @@ install_python(){
     sudo apt install -y python3 python3-pip python3-venv python python-pip python-venv
     sudo apt install python3-discord -y
 }
-setup-bot-discord-ServerMC(){
+ServerMC(){
     mkdir /bot-discord/
     cd /bot-discord/
     mkdir ./scripts
@@ -26,4 +26,10 @@ setup-bot-discord-ServerMC(){
 update_system
 install_dependance
 install_python
-setup-bot-discord-ServerMC
+ServerMC
+
+clear
+echo Modifié les fichiers en .py par vos ID et votre TOKEN discord
+echo Dossier d'installation dans /bot-discord/
+echo Script ecris par @AtisFPS 
+echo https://github.com/AtisFPS
