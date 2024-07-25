@@ -3,6 +3,8 @@
 
 #### Le raspberry tourne 24/24 et permet via la commande !start de demarrer le serveur via le Wake On Lan le serveur minecraft
 
+## Methode 1 
+> Prérequis curl et sudo 
 #### Utilisation ( Coté serveur )
 ```
 curl -sS https://raw.githubusercontent.com/AtisFPS/Minecraft-ServerTools/main/ServerMC/setup.sh | sh
@@ -11,6 +13,16 @@ curl -sS https://raw.githubusercontent.com/AtisFPS/Minecraft-ServerTools/main/Se
 #### Utilisation ( Coté raspberry )
 ```
 curl -sS https://raw.githubusercontent.com/AtisFPS/Minecraft-ServerTools/main/Rasp/setup.sh | sh
+```
+## Methode 2
+#### Utilisation ( Coté serveur )
+```
+wget -o srv-setup.sh https://raw.githubusercontent.com/AtisFPS/Minecraft-ServerTools/main/ServerMC/setup.sh
+```
+
+#### Utilisation ( Coté raspberry )
+```
+wget -o rasp-setup.sh https://raw.githubusercontent.com/AtisFPS/Minecraft-ServerTools/main/Rasp/setup.sh
 ```
 
 
