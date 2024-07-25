@@ -1,8 +1,7 @@
 # Minecraft-ServerTools
 ### Ensemble de script permettant l'administration de serveur minecraft via python et shell pour une gestion du serveur via discord 
 
-#### Le raspberry tourne 24/24 et permet via la commande !start de demarrer le serveur via le Wake On Lan le serveur minecraft
-
+#### Le raspberry tourne 24/24 et permet via la commande !start de demarrer le serveur via le Wake On Lan
 ## Methode 1 
 > Prérequis curl et sudo 
 #### Utilisation ( Coté serveur )
