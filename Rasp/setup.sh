@@ -18,8 +18,8 @@ install_python(){
 ServerMC(){
     mkdir /bot-discord/
     cd /bot-discord/
-    wget -o wol.py # Lien GITHUB
-    wget -o wol.sh # Lien GITHUB
+    wget -o wol.py https://raw.githubusercontent.com/AtisFPS/Minecraft-ServerTools/main/Rasp/wol.py
+    wget -o wol.sh https://raw.githubusercontent.com/AtisFPS/Minecraft-ServerTools/main/Rasp/wol.sh
 }
 
 
