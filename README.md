@@ -1,9 +1,7 @@
 # Minecraft-ServerTools
 ### Ensemble de script permettant l'administration de serveur minecraft via python et shell pour une gestion du serveur via discord 
 
-> Petit point architecture réseau !
-#### Le raspberry tourne 24/24 et permet via la commande !start de demarrer via le Wake On Lan le serveur minecraft
-![reseaux](./upload/reseaux.png)
+#### Le raspberry tourne 24/24 et permet via la commande !start de demarrer le serveur via le Wake On Lan le serveur minecraft
 
 #### Utilisation ( Coté serveur )
 ```
