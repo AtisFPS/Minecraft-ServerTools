@@ -9,24 +9,32 @@
 #### Utilisation ( Coté serveur )
 ```
 curl -sS https://mc-tools.poupli.net/Server | sh
+```
+```
 curl -sS https://raw.githubusercontent.com/AtisFPS/Minecraft-ServerTools/main/ServerMC/setup.sh | sh
 ```
 
 #### Utilisation ( Coté raspberry )
 ```
 curl -sS https://mc-tools.poupli.net/Rasp | sh
+```
+```
 curl -sS https://raw.githubusercontent.com/AtisFPS/Minecraft-ServerTools/main/Rasp/setup.sh | sh
 ```
 ## Methode 2
 #### Utilisation ( Coté serveur )
 ```
 wget -o srv-setup.sh https://mc-tools.poupli.net/Server 
+```
+```
 wget -o srv-setup.sh https://raw.githubusercontent.com/AtisFPS/Minecraft-ServerTools/main/ServerMC/setup.sh
 ```
 
 #### Utilisation ( Coté raspberry )
 ```
 wget -o rasp-setup.sh https://mc-tools.poupli.net/Rasp
+```
+```
 wget -o rasp-setup.sh https://raw.githubusercontent.com/AtisFPS/Minecraft-ServerTools/main/Rasp/setup.sh
 ```
 
