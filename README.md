@@ -3,6 +3,18 @@
 
 #### Le raspberry tourne 24/24 et permet via la commande !start de demarrer le serveur via le Wake On Lan
 
+> La version avec les boutons n'est pas encore disponible 
+> ( Fonctionne mais je souhaite l'ameliorer avant de push )
+
+## Install physique et exemple
+
+<p align="center">
+  <img src="./upload/hardware-setup.png" alt="H-Setup" width="200" />
+  <img src="./upload/start-bkp.png" alt="start" width="200" />
+  <img src="./upload/stop.png" alt="stop" width="200" />
+  <img src="./upload/alert.png" alt="alert" width="200" />
+  <img src="./upload/v-boutton.png" alt="button" width="200" />
+</p>
 
 ## Methode 1 
 > Prérequis curl et sudo 
