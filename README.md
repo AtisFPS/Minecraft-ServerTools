@@ -13,7 +13,7 @@
   <img src="./upload/start-bkp.png" alt="start" width="200" />
   <img src="./upload/stop.png" alt="stop" width="200" />
   <img src="./upload/alert.png" alt="alert" width="200" />
-  <img src="./upload/v-boutton.png" alt="button" width="200" />
+  <img src="./upload/v-boutton.png" alt="button" width="800" />
 </p>
 
 ## Methode 1 
